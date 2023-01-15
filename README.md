@@ -13,3 +13,4 @@ Code Structure :
 3. search_frontend.py - Used to run the Flask app ( the queries ) and contains most of the search and rank functions we used . 
 4. BM_25_from_index.py - Implimentation of the BM25 method to calculate similarity.
 5. run_frontend_in_gcp.sh - creation info of the GCP instance to query the engine .
+6. files_from_bucket.docx  - stored files from bucket
